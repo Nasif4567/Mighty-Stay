@@ -60,12 +60,3 @@ https://github.com/pawanpk87/MyRoom/assets/87040096/ad4b4ebe-26a0-4051-b3dc-e608
 -   Use **Stripe CLI** to trigger Stripe webhook events. Refer to [Stripe Documentation](https://docs.stripe.com/payments/handling-payment-events#use-cli).
 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Pawan Kumar Mehta - arowpk@gmail.com
-
-Project Link: [https://github.com/pawanpk87/MyRoom](https://github.com/pawanpk87/MyRoom)
-
