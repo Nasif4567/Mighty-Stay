@@ -1,5 +1,5 @@
 ## :star2: About the Project
-MyRoom is a Hotel management web application.
+Mighty Stay is a Hotel management web application.
 
 # 🛠️ High Level Design
 ![Screenshot 2024-08-02 122824](https://github.com/user-attachments/assets/26f7e20a-773f-4907-a274-400195f6f520)
@@ -8,12 +8,12 @@ https://github.com/pawanpk87/MyRoom/assets/87040096/ad4b4ebe-26a0-4051-b3dc-e608
 
 <!-- Screenshots -->
 
-### :camera: Screenshots(MyRoom dashboard)
+### :camera: Screenshots(Might Stay dashboard)
 <img width="1511" alt="Screenshot 2024-02-27 at 11 49 04 AM" src="https://github.com/pawanpk87/MyRoom/assets/87040096/375a3071-8442-41c1-8a00-2a71d588a1c7">
 <img width="1511" alt="Screenshot 2024-02-28 at 10 01 13 AM" src="https://github.com/pawanpk87/MyRoom/assets/87040096/a61b1b8f-6094-4a22-9575-ed62245530db">
 <img width="1511" alt="Screenshot 2024-02-28 at 10 01 27 AM" src="https://github.com/pawanpk87/MyRoom/assets/87040096/4f2f425d-1066-45ec-a559-c5ef49adab63">
 
-### :camera: Screenshots(MyRoom client)
+### :camera: Screenshots(Mighty Stay client)
 <img width="1511" alt="Screenshot 2024-02-28 at 10 03 28 AM" src="https://github.com/pawanpk87/MyRoom/assets/87040096/26c4a823-de24-4b9d-87d7-1a60cfe49fe1">
 <img width="1511" alt="Screenshot 2024-02-28 at 10 03 52 AM" src="https://github.com/pawanpk87/MyRoom/assets/87040096/86d495ef-3f3e-4fd4-b066-8ed29ae8b80c">
 <img width="1511" alt="Screenshot 2024-02-28 at 10 04 53 AM" src="https://github.com/pawanpk87/MyRoom/assets/87040096/f29d2314-1a1d-4dab-8b3d-168db1d5a7a6">
