@@ -54,7 +54,7 @@ https://github.com/pawanpk87/MyRoom/assets/87040096/ad4b4ebe-26a0-4051-b3dc-e608
     # Start the Kafka broker service $ bin/kafka-server-start.sh config/server.properties
     ```
 -   Start the **auth server** [Auth Server](https://github.com/pawanpk87/MyRoom/tree/main/auth-server#how-to-run-auth-server).
--   Start the **MyRoom gateway**.
+-   Start the **Mighty Stay gateway**.
 -   Then run all the services one by one: **booking service**, **onboarding server**, **organization pay service**, **organization service**, **payment server**, **review service**, **room service**, **mail service**.
 -   Run both frontend apps: **Mighty Stay  client**, **Mighty Stay  Admin client**.
 -   Use **Stripe CLI** to trigger Stripe webhook events. Refer to [Stripe Documentation](https://docs.stripe.com/payments/handling-payment-events#use-cli).
